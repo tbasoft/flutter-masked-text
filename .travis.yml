@@ -1,3 +1,4 @@
+language: DART
 os:
   - linux
 sudo: false
